@@ -1,2 +1,25 @@
-# hello-github
-我的第一个GitHub仓库，用于学习GitHub CLI
+# Hello GitHub!
+
+这是我的第一个 GitHub 仓库，用于学习 GitHub CLI。
+
+## 学习进度
+
+- [x] Step 1: 创建仓库
+- [x] Step 2: 克隆仓库到本地
+- [x] Step 3: 修改文件并提交
+- [ ] Step 4: 创建 Issue
+- [ ] Step 5: 创建分支
+- [ ] Step 6: 创建 Pull Request
+
+## 使用的工具
+
+- GitHub CLI (gh)
+- Git
+
+## 创建日期
+
+2026-03-20
+
+---
+
+> 这是通过 GitHub CLI 学习 Git 工作流的练习项目。
