@@ -9,8 +9,8 @@
 - [x] Step 3: 修改文件并提交
 - [x] Step 4: 创建 Issue
 - [x] Step 5: 创建分支
-- [ ] Step 6: 创建 Pull Request
-- [ ] Step 7: 合并 Pull Request
+- [x] Step 6: 创建 Pull Request
+- [x] Step 7: 合并 Pull Request
 
 ## 使用的工具
 
@@ -22,7 +22,6 @@
 | 分支名 | 用途 |
 |--------|------|
 | `main` | 主分支，稳定版本 |
-| `feature/update-readme` | 更新 README 的功能分支 |
 
 ## 创建日期
 
@@ -31,4 +30,4 @@
 ---
 
 > 这是通过 GitHub CLI 学习 Git 工作流的练习项目。
-> 当前在 `feature/update-readme` 分支上开发。
+> 教程已全部完成！🎉
